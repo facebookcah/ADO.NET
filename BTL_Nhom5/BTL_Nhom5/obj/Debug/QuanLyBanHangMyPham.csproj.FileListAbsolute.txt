@@ -1,0 +1,238 @@
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\BTL_Nhom5.exe.config
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\BTL_Nhom5.exe
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\BTL_Nhom5.pdb
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\QuanLyBanHangMyPham.csprojAssemblyReference.cache
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.MenuQuanLy.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Properties.Resources.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\QuanLyBanHangMyPham.csproj.GenerateResource.cache
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\QuanLyBanHangMyPham.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.exe
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.pdb
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\QuanLyBanHangMyPham.csproj.CopyComplete
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.QuanLy.QLKhachHang.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.QuanLy.ThemKhachHang.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\BUS.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\DAL.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\DTO.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\BUS.pdb
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\DAL.pdb
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\DTO.pdb
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.BanHang.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Dialog_EditSP.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.DialogThemDH.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Dialog_ThemSP.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Dialog_ChietKhau.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.DangNhap.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormBaoCaoTC.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.NhaCC.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.QuanLyNhanVien.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.QuanLyTaiKhoan.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormPhieuNhap.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.San_Pham.DSSanPham.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.San_Pham.SuaSanPham.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.San_Pham.ThemSanPham.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.San_Pham.XemSP.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\EnvDTE.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\stdole.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormPhieuChi.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormPhieuThu.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Menu.MenuNhanVien.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.CTHD.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Form_HoaDon.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\EntityFramework.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\EntityFramework.xml
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormSoQuy.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\RptTC.rdlc
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\RdlCompile.cache
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\RdlCompile.compiled
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\bin\Debug\RptTK.rdlc
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormBaoCaoTK.resources
+C:\Users\Ngoc Anh\source\repos\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Frm_GT.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\RptTC.rdlc
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\RptTK.rdlc
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\BTL_Nhom5.exe.config
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\BTL_Nhom5.exe
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\BTL_Nhom5.pdb
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\BUS.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\DAL.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\DTO.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\EntityFramework.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\EntityFramework.SqlServer.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\FontAwesome.Sharp.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\EnvDTE.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\stdole.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\Microsoft.MSXML.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\BUS.pdb
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\DAL.pdb
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\DTO.pdb
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\EntityFramework.xml
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\EntityFramework.SqlServer.xml
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\QuanLyBanHangMyPham.csprojAssemblyReference.cache
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.BanHang.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Dialog_EditSP.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.DialogThemDH.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Dialog_ThemSP.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Dialog_ChietKhau.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.CTHD.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.DangNhap.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormBaoCaoTC.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormBaoCaoTK.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormPhieuChi.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormPhieuThu.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormSoQuy.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Form_HoaDon.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Frm_GT.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Menu.MenuNhanVien.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.MenuQuanLy.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.NhaCC.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.FormPhieuNhap.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.Properties.Resources.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.QuanLyNhanVien.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.QuanLyTaiKhoan.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.QuanLy.QLKhachHang.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.QuanLy.ThemKhachHang.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.San_Pham.DSSanPham.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.San_Pham.SuaSanPham.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.San_Pham.ThemSanPham.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.San_Pham.XemSP.resources
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\QuanLyBanHangMyPham.csproj.GenerateResource.cache
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\RdlCompile.cache
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\RdlCompile.compiled
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\QuanLyBanHangMyPham.csproj.CoreCompileInputs.cache
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\QuanLyBanHangMyPham.csproj.CopyComplete
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.exe
+D:\winform\BTL_Nhom5\BTL_Nhom5\obj\Debug\BTL_Nhom5.pdb
